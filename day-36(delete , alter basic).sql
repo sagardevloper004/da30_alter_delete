@@ -43,3 +43,7 @@ select distinct h_city from hospital
 
 select * from h1
 
+
+select *from h1
+
+update h1 set email = h_name || '@gmail.com'
